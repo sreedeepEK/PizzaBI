@@ -15,11 +15,11 @@ Below are preview images of the dashboard pages.
 
 **Overview Dashboard**  
 
-![Overview Dashboard](https://github.com/sreedeepEK/PizzaBI/blob/main/src/Page%201.png) 
+![Overview Dashboard](https://raw.githubusercontent.com/sreedeepEK/PizzaBI/main/src/Page%201.png) 
 
 **Trends Dashboard**  
 
-![Trends Dashboard](https://github.com/sreedeepEK/PizzaBI/blob/main/src/Page%202.png)
+![Trends Dashboard](https://raw.githubusercontent.com/sreedeepEK/PizzaBI/main/src/Page%202.png)
 
 #### Data Processing (SQL)
 
@@ -67,4 +67,4 @@ Key analytical outputs include:
 
 This project is licensed under the MIT License.
 
-See the LICENSE file for details.
+See the [LICENSE](https://github.com/sreedeepEK/PizzaBI/blob/main/LICENSE) file for details.
