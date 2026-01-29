@@ -9,14 +9,9 @@ This repository contains sales analysis and dashboarding for a pizza dataset usi
 - 📊 **Power BI File (PBIX):** [`dashboard.pbix`](https://github.com/sreedeepEK/PizzaBI/blob/main/dashboard.pbix)
 
 
-## Preview / Screenshots 
-**Overview Dashboard**  
+## Preview
 
-![Overview Dashboard](https://raw.githubusercontent.com/sreedeepEK/PizzaBI/main/src/Page%201.png) 
-
-**Trends Dashboard**  
-
-![Trends Dashboard](https://raw.githubusercontent.com/sreedeepEK/PizzaBI/main/src/Page%202.png)
+![Demo](https://github.com/sreedeepEK/PizzaBI/blob/a73804a92424d6dabee8d2ba437f304cee4c342b/demo.gif)
 
 #### Data Processing (SQL)
 
