@@ -10,9 +10,6 @@ This repository contains sales analysis and dashboarding for a pizza dataset usi
 
 
 ## Preview / Screenshots 
-
-Below are preview images of the dashboard pages.
-
 **Overview Dashboard**  
 
 ![Overview Dashboard](https://raw.githubusercontent.com/sreedeepEK/PizzaBI/main/src/Page%201.png) 
