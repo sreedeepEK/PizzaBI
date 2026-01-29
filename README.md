@@ -11,7 +11,7 @@ This repository contains sales analysis and dashboarding for a pizza dataset usi
 
 ## Preview
 
-![Demo](https://github.com/sreedeepEK/PizzaBI/blob/a73804a92424d6dabee8d2ba437f304cee4c342b/demo.gif)
+![Demo](https://github.com/sreedeepEK/PizzaBI/blob/b4ee754dfa7fe31675675a524feb41bba2876a37/demo.gif)
 
 #### Data Processing (SQL)
 
